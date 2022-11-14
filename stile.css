@@ -1,0 +1,101 @@
+h1
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 24px;
+color: #800000
+}
+
+body
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 12px;
+color: #800000
+}
+
+TD
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 12px;
+color: #800000
+}
+
+B
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 14px;
+FONT-WEIGHT: bold;
+color: #800000
+}
+
+I
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 12px
+color: #800000
+}
+
+.G
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 16px;
+FONT-WEIGHT: bold;
+color: #ff0000
+}
+
+.ref
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 10px;
+color: #00cc00
+}
+
+.tit
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 16px;
+FONT-WEIGHT: bold;
+color: #008800
+}
+
+.ita
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 12px;
+color: #000000
+}
+
+.art
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 14px;
+FONT-WEIGHT: bold;
+color: #ff0000
+}
+
+.dom
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 6px;
+text-decoration:none;
+color: #800000
+}
+
+
+.st
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 10px;
+color: #800000
+}
+
+.nota
+{
+FONT-FAMILY: Times, serif;
+FONT-SIZE: 10px;
+color: #808080
+}
+
+a:link, a:visited {text-decoration:underline; color: #800000}
+a:hover {text-decoration:none; color: #ffffdd; background: #800000}
+
+
